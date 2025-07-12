@@ -1,0 +1,33 @@
+html{
+    background-color: skyblue;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center; /* center horizontally */
+    align-items: center;     /* center vertically */
+    
+}
+.card{
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 300px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+    margin: 0 auto;
+
+  
+}
+.card img{
+   width: 100%;
+  border-radius: 10px; 
+ 
+}
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1.3rem;
+  }
+
+  p {
+    font-size: 0.95rem;
+  }}
