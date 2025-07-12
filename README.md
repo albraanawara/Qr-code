@@ -5,7 +5,7 @@ This is a simple and responsive QR code for my social website built using HTML &
 
 ## 🌐 Live Demo
 
-[View Website]()
+[View Website](https://albraanawara.github.io/Qr-code/)
 
 ## 📁 Project Structure
 
